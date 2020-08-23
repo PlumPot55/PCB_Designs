@@ -42,7 +42,7 @@ U 1 1 5F271AB7
 P 6500 3350
 F 0 "J5" H 6557 3817 50  0000 C CNN
 F 1 "USB_B_Mini" H 6557 3726 50  0000 C CNN
-F 2 "Connector_USB:USB_Micro-B_Molex-105017-0001" H 6650 3300 50  0001 C CNN
+F 2 "Connector_USB:USB_Micro-B_Molex_47346-0001" H 6650 3300 50  0001 C CNN
 F 3 "https://www.molex.com/molex/products/part-detail/io_connectors/1050170001" H 6650 3300 50  0001 C CNN
 	1    6500 3350
 	1    0    0    -1  
@@ -8270,4 +8270,10 @@ F 3 "" H 3000 5650 50  0001 C CNN
 	1    3000 5650
 	1    0    0    -1  
 $EndComp
+Wire Notes Line
+	15850 650  15850 3600
+Wire Notes Line
+	12100 3600 12100 650 
+Wire Notes Line
+	15850 3600 12100 3600
 $EndSCHEMATC
