@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name Drone_PCB-rescue)(type Legacy)(uri ${KIPRJMOD}/Drone_PCB-rescue.lib)(options "")(descr ""))
+)
