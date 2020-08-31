@@ -1,0 +1,28 @@
+### Module positions - created on 08/30/20 20:02:13 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val             Package                                           PosX       PosY       Rot  Side
+C1        10uF            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    16.6370     9.5300   90.0000  top
+C2        10uF            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    23.8760    11.0540   90.0000  top
+C3        0.1uF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder    22.2250    11.0540   90.0000  top
+C10       10uF            C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     6.2230    33.7870   90.0000  top
+C11       0.1uF           C_0603_1608Metric_Pad1.05x0.95mm_HandSolder     7.7470    33.7870   90.0000  top
+D2        D_Schottky      D_2114_3652Metric_Pad1.85x3.75mm_HandSolder     3.9370    17.6580    0.0000  top
+D4        D_Schottky      D_2114_3652Metric_Pad1.85x3.75mm_HandSolder     8.3820     8.2600   90.0000  top
+D5        D_Schottky      D_2114_3652Metric_Pad1.85x3.75mm_HandSolder    32.1310    19.0550  180.0000  top
+J5        USB_B_Mini      USB_Micro-B_Molex_47346-0001                   19.1880     2.7290    0.0000  top
+R7        100R            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     6.8580    31.2470    0.0000  top
+R8        100K            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     6.9850    28.5800  270.0000  top
+R9        100K            R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     6.9850    25.0240  270.0000  top
+R10       2k2             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    29.0830    33.0250  270.0000  top
+R11       2k2             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    29.2100    27.4370  270.0000  top
+R12       10K             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder     6.9850    21.5950   90.0000  top
+R14       10K             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    11.5570    13.8480  270.0000  top
+R15       10K             R_0603_1608Metric_Pad1.05x0.95mm_HandSolder    29.3370    23.8810  270.0000  top
+U1        ESP32-WROOM-32  ESP32-WROOM-32                                 18.3990    26.4280    0.0000  top
+U3        SI2302-TP       SOT-23                                          4.4450    22.8650  180.0000  top
+U4        MIC5219-3.3YMM  MSOP-8_3x3mm_P0.65mm                           19.4310     9.4030   90.0000  top
+U8        SI2302-TP       SOT-23                                          9.0170    13.7210  270.0000  top
+U9        SI2302-TP       SOT-23                                         32.0040    23.8810    0.0000  top
+## End

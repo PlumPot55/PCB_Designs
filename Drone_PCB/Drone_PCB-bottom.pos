@@ -1,0 +1,25 @@
+### Module positions - created on 08/30/20 20:02:13 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                                    Package                                           PosX       PosY       Rot  Side
+C7        4.7uF                                  C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -15.6210    14.7370  180.0000  bottom
+C8        10uF                                   C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -13.0810    14.4830  270.0000  bottom
+C9        0.1uF                                  C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -11.5570    14.4830  270.0000  bottom
+C12       0.1uF                                  C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -24.0030    21.5950    0.0000  bottom
+C13       2.2nF                                  C_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -14.8590    19.8170  270.0000  bottom
+D3        D_Schottky                             D_2114_3652Metric_Pad1.85x3.75mm_HandSolder   -32.1310    19.0550  180.0000  bottom
+Q1        TRANS_NPN-MMBT2222AL                   SOT23-3                                       -12.0650     8.3870    0.0000  bottom
+Q2        TRANS_NPN-MMBT2222AL                   SOT23-3                                       -15.7480     8.3870    0.0000  bottom
+R3        10K                                    R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -15.8750    11.0540  180.0000  bottom
+R4        10K                                    R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -12.1920    11.0540  180.0000  bottom
+R5        100R                                   R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -26.7970    14.7370   90.0000  bottom
+R6        100R                                   R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -25.2730    14.7370   90.0000  bottom
+R13       10K                                    R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -29.3370    23.8810   90.0000  bottom
+R16       0R                                     R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -24.0030    24.7700    0.0000  bottom
+R17       0R                                     R_0603_1608Metric_Pad1.05x0.95mm_HandSolder   -24.0030    23.1190  180.0000  bottom
+S1        MOMENTARY-SWITCH-SPST-2-SMD-4.6X2.8MM  TACTILE_SWITCH_SMD_4.6X2.8MM                   -6.8580    27.9450  270.0000  bottom
+U2        CP2104                                 QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm           -21.5900    10.5460   90.0000  bottom
+U5        SI2302-TP                              SOT-23                                        -32.0040    23.8810    0.0000  bottom
+U6        MPU-6050                               InvenSense_QFN-24_4x4mm_P0.5mm                -18.8100    21.1010  270.0000  bottom
+## End
