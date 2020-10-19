@@ -1,0 +1,16 @@
+### Module positions - created on 10/18/20 16:56:40 ###
+### Printed by Pcbnew version kicad (5.1.5)-3
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                        Package                                               PosX       PosY       Rot  Side
+C1        4.7uF                      C_1206_3216Metric_Pad1.42x1.75mm_HandSolder        13.4620    11.6840   90.0000  top
+C2        4.7uF                      C_1206_3216Metric_Pad1.42x1.75mm_HandSolder        10.2870     7.7470    0.0000  top
+D1        LED                        LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder      16.6370     8.3820  270.0000  top
+FD1       Fiducial_0.75mm_Mask1.5mm  Fiducial_0.75mm_Mask1.5mm                           2.7305     1.7145    0.0000  top
+FD2       Fiducial_0.75mm_Mask1.5mm  Fiducial_0.75mm_Mask1.5mm                          17.5895    18.4785    0.0000  top
+J1        USB_B_Micro                USB_Micro-B_Molex-105017-0001                      10.2870    17.2720  180.0000  top
+J2        Conn_01x02                 JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal    10.1600     3.0480    0.0000  top
+R1        470R                       R_1206_3216Metric_Pad1.42x1.75mm_HandSolder        16.6370    13.4620   90.0000  top
+R2        2k                         R_1206_3216Metric_Pad1.42x1.75mm_HandSolder         6.8580    11.5570  270.0000  top
+U1        MCP73831-2-OT              SOT-23-5                                           10.1600    11.1760    0.0000  top
+## End

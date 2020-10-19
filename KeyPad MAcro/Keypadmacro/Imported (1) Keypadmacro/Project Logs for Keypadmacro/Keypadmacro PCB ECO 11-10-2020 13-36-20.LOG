@@ -1,0 +1,34 @@
+Removed Pin From Net: NetName=GND Pin=R2-1
+Removed Pin From Net: NetName=NetC4_2 Pin=R2-2
+Removed Pin From Net: NetName=NetR2_3 Pin=R2-3
+Change Component Footprint: Designator=R2 Old Footprint=VR5 New Footprint=FP-PV37W101C01B00-MFG
+Change Component Comment : Designator=R2 Old Comment=RPot New Comment=PV37W101C01B00
+Change Managed Component Library Link : Designator=R2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=BE55D26E-F5D5-449E-AE87-150BD768FC21 Old RevisionGUID= New RevisionGUID=79467AA4-DDD5-4596-A9CB-D5B8F20CB0B0
+Change component parameters: Designator = "R2" ("R2"); Footprint = "VR5"; UniqueID = "\BHIYMEDM\NRYAGMSX" ("\BHIYMEDM\NRYAGMSX")
+Change component parameters (AddParameter): Name = "Color"; Value = "Grey"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Composition"; Value = "Cermet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "0.264inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "0.252inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Power Dissipation"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Turns"; Value = "12"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Power Rating"; Value = "250mW"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Resistance"; Value = "100R"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Taper"; Value = "Linear"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Temperature Coefficient"; Value = "150ppm/°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "PC Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Weight"; Value = "340mg"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "0.157inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetC4_2 Pin=R2-1
+Added Pin To Net: NetName=NetR2_3 Pin=R2-2
+Added Pin To Net: NetName=GND Pin=R2-3
+Change Net Name : Old Net Name=NetR2_3 New Net Name=NetR2_2
+Added Room: Name=Designator
+Added Room: Name=Keypadmacro

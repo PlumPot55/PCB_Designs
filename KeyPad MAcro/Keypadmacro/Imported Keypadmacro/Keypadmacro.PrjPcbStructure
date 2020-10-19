@@ -1,0 +1,4 @@
+Record=TopLevelDocument|FileName=Keypadmacro.SchDoc
+Record=SheetSymbol|SourceDocument=Keypadmacro.SchDoc|Designator=9 Cherry MX with LEDs|SchDesignator=9 Cherry MX with LEDs|FileName=Cherry MX.SchDoc|SymbolType=Normal|RawFileName=Cherry MX.SchDoc|DesignItemId= |SourceLibraryName=Cherry MX.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Keypadmacro.SchDoc|Designator=Microphone Pic up|SchDesignator=Microphone Pic up|FileName=Sound Intimator.SchDoc|SymbolType=Normal|RawFileName=Sound Intimator.SchDoc|DesignItemId= |SourceLibraryName=Sound Intimator.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Keypadmacro.SchDoc|Designator=STM32 with OSC|SchDesignator=STM32 with OSC|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName=STM32.SchDoc|ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

@@ -1,5 +1,4 @@
 EESchema Schematic File Version 4
-LIBS:Drone_PCB-cache
 EELAYER 30 0
 EELAYER END
 $Descr A3 16535 11693
@@ -7784,7 +7783,7 @@ INT
 Wire Wire Line
 	3600 5000 3900 5000
 $Comp
-L Drone_Lib:SI2302-TP U8
+L Drone_PCB-rescue:SI2302-TP-Drone_Lib U8
 U 1 1 5F6DDDB5
 P 9000 8350
 F 0 "U8" H 9406 8279 28  0000 L CNN
@@ -7887,7 +7886,7 @@ Wire Wire Line
 Wire Wire Line
 	8750 8200 9300 8200
 $Comp
-L Drone_Lib:SI2302-TP U9
+L Drone_PCB-rescue:SI2302-TP-Drone_Lib U9
 U 1 1 5F849D31
 P 10600 8400
 F 0 "U9" H 11006 8329 28  0000 L CNN
@@ -7990,7 +7989,7 @@ Wire Wire Line
 Wire Wire Line
 	10350 8250 10900 8250
 $Comp
-L Drone_Lib:SI2302-TP U5
+L Drone_PCB-rescue:SI2302-TP-Drone_Lib U5
 U 1 1 5F8B4C53
 P 7450 8350
 F 0 "U5" H 7856 8279 28  0000 L CNN
@@ -8093,7 +8092,7 @@ Wire Wire Line
 Wire Wire Line
 	7200 8200 7750 8200
 $Comp
-L Drone_Lib:SI2302-TP U3
+L Drone_PCB-rescue:SI2302-TP-Drone_Lib U3
 U 1 1 5F8C55B7
 P 5950 8300
 F 0 "U3" H 6356 8229 28  0000 L CNN

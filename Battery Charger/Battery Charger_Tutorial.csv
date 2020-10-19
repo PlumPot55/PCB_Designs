@@ -1,0 +1,9 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"FD1,FD2";"Fiducial_0.75mm_Mask1.5mm";2;"Fiducial_0.75mm_Mask1.5mm";;;
+2;"J1";"USB_Micro-B_Molex-105017-0001";1;"USB_B_Micro";;;
+3;"U1";"SOT-23-5";1;"MCP73831-2-OT";;;
+4;"R2";"R_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"2k";;;
+5;"R1";"R_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"470R";;;
+6;"J2";"JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal";1;"Conn_01x02";;;
+7;"D1";"LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder";1;"LED";;;
+8;"C2,C1";"C_1206_3216Metric_Pad1.42x1.75mm_HandSolder";2;"4.7uF";;;

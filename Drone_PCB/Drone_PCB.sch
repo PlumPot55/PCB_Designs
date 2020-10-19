@@ -7401,8 +7401,6 @@ Wire Wire Line
 	13200 7900 12750 7900
 Text Label 12750 8000 0    50   ~ 0
 SCL
-Wire Wire Line
-	13900 8900 13900 9050
 $Comp
 L power:GND #PWR033
 U 1 1 5F46076D
@@ -7616,17 +7614,6 @@ Wire Wire Line
 	10200 6300 10200 6150
 Text Label 1900 2800 0    50   ~ 0
 RESET
-$Comp
-L Sensor_Motion:MPU-6050 U6
-U 1 1 5F27C8D8
-P 13900 8200
-F 0 "U6" H 13500 7450 50  0000 C CNN
-F 1 "MPU-6050" H 13650 7350 50  0000 C CNN
-F 2 "Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm" H 13900 7400 50  0001 C CNN
-F 3 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" H 13900 8050 50  0001 C CNN
-	1    13900 8200
-	1    0    0    -1  
-$EndComp
 $Comp
 L Device:R_Small R10
 U 1 1 5F50A1AC
@@ -8275,4 +8262,17 @@ Wire Notes Line
 	12100 3600 12100 650 
 Wire Notes Line
 	15850 3600 12100 3600
+$Comp
+L Sensor_Motion:MPU-6050 U6
+U 1 1 5F27C8D8
+P 13900 8200
+F 0 "U6" H 13500 7450 50  0000 C CNN
+F 1 "MPU-6050" H 13650 7350 50  0000 C CNN
+F 2 "Sensor_Motion:InvenSense_QFN-24_4x4mm_P0.5mm" H 13900 7400 50  0001 C CNN
+F 3 "https://store.invensense.com/datasheets/invensense/MPU-6050_DataSheet_V3%204.pdf" H 13900 8050 50  0001 C CNN
+	1    13900 8200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	13900 8900 13900 9050
 $EndSCHEMATC
