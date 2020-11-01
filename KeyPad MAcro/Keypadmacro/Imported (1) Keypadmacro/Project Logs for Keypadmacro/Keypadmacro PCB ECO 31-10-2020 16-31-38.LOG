@@ -1,0 +1,8 @@
+Added Pin To Net: NetName=GND Pin=SW2-4
+Added Pin To Net: NetName=GND Pin=SW5-4
+Added Pin To Net: NetName=GND Pin=SW8-4
+Change Room Name: Old Name=Designator_4 New Name=Designator
+Change Room Name: Old Name=Designator_3 New Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Keypadmacro

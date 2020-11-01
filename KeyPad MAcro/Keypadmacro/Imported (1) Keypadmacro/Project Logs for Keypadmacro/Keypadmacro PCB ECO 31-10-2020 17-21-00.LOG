@@ -1,0 +1,65 @@
+Removed Member From Class: ClassName=Keypadmacro Member=C1
+Removed Member From Class: ClassName=Keypadmacro Member=C2
+Removed Member From Class: ClassName=Keypadmacro Member=C3
+Removed Member From Class: ClassName=Keypadmacro Member=U1
+Removed Member From Class: ClassName=Keypadmacro Member=U2
+Added Component: Designator=P1(SMTC-TSW-104-08-X-S)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.samtec.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.samtec.com/documents/webfiles/pdf/TSW_TH.PDF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.samtec.com/documents/webfiles/cpdf/TSW-XXX-XX-XXX-X-XX-XXX-MKT.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "F-214"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through-hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Orientation"; Value = "Vertical"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = ".025[0.64] SQ. Post Terminal Strip Assembly"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TSW-104-08-X-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "DM, 8/1988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "TSW-104-08-T-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pitch"; Value = "2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Range"; Value = "-55 to 105 degC"; VariantName = "[No Variations]"
+Added Component: Designator=P2(MOLX-22-28-4033_V)
+Add component (AddParameter): Name = "Colour"; Value = "Black"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/022284033_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Finish"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Rating"; Value = "4 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. G, 01/2012"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "8.38 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Pitch"; Value = "0.1 inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "7.62 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "75 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Through Hole"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Male Header, Pitch 2.54 mm, 1 x 3 Position, Height 8.38 mm, Tail Length 3.18 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "22-28-4033"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "Unknown"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rows"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Rating"; Value = "250 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=P1-1
+Added Pin To Net: NetName=+3.3V Pin=P1-2
+Added Pin To Net: NetName=+BATT Pin=P2-1
+Added Pin To Net: NetName=DIN_EXT Pin=P2-2
+Added Pin To Net: NetName=GND Pin=P2-3
+Added Member To Class: ClassName=Designator Member=Component C5 EEEFP1V470AP
+Added Member To Class: ClassName=Keypadmacro Member=Component P1 TSW-104-08-T-S
+Added Member To Class: ClassName=Keypadmacro Member=Component P2 22-28-4033
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Keypadmacro

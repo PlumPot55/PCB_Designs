@@ -1,3 +1,4 @@
 Record=TopLevelDocument|FileName=Keypadmacro.SchDoc
 Record=SheetSymbol|SourceDocument=Keypadmacro.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=STM32.SchDoc|SymbolType=Normal|RawFileName=STM32.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
 Record=SheetSymbol|SourceDocument=Keypadmacro.SchDoc|Designator=Designator|SchDesignator=Designator|FileName=Sound Intimator.SchDoc|SymbolType=Normal|RawFileName=Sound Intimator.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Keypadmacro.SchDoc|Designator=U_Cherry MX|SchDesignator=U_Cherry MX|FileName=Cherry MX.SchDoc|SymbolType=Normal|RawFileName=Cherry MX.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 

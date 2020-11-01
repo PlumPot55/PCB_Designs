@@ -1,0 +1,252 @@
+Removed Pin From Net: NetName=+3V3 Pin=R1-2
+Removed Pin From Net: NetName=+3V3 Pin=U3-6
+Removed Pin From Net: NetName=MIC_OUT_TO_CONTROLLER Pin=U?-28
+Added Component: Designator=C9(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAPC1608X90X35NL10T15)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GRM188R60J106ME47D"; VariantName = "[No Variations]"
+Added Component: Designator=R12(RESC1608X90X30LL15T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERT-J1VR103J"; VariantName = "[No Variations]"
+Added Component: Designator=R13(RESC1608X90X30LL15T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERT-J1VR103J"; VariantName = "[No Variations]"
+Added Component: Designator=R14(RESC1608X90X30LL15T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERT-J1VR103J"; VariantName = "[No Variations]"
+Added Component: Designator=R15(RESC1608X90X30LL15T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERT-J1VR103J"; VariantName = "[No Variations]"
+Added Component: Designator=R16(RESC1608X90X30LL15T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERT-J1VR103J"; VariantName = "[No Variations]"
+Added Component: Designator=R17(RESC1608X90X30LL15T20)
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERT-J1VR103J"; VariantName = "[No Variations]"
+Added Component: Designator=SW1(430156070736)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.we-online.com"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://katalog.we-online.de/em/datasheet/4301x6.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Wuerth Elektronik"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "NoPins"; Value = "04"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "430156070736"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "430156070736"; VariantName = "[No Variations]"
+Added Component: Designator=U4(STM-LQFP48_L)
+Add component (AddParameter): Name = "A/D Converter"; Value = "2x12-bit (10 Channel)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.st.com/web/en/home.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00058181.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Core"; Value = "ARM Cortex-M3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. 16"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "FLASH Size (Prog) (kB)"; Value = "64"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "I/Os (High Current)"; Value = "37"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Internal RAM Size (kB)"; Value = "20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Frequency(F) (Processor speed) (MHz)"; Value = "72"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "48-Pin Low Profile Quad Flat Package, 7 x 7 mm Body, 0.5 mm Pitch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "LQFP48"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. 6, 06/2013"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "STM32F103C8T6"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supply Voltage(Vcc) min (V)"; Value = "2"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(FOX-FOXSLF080-20)
+Add component (AddParameter): Name = "Case\Package"; Value = "TO-263-3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.foxonline.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://download.siliconexpert.com/pdfs/2015/4/5/6/5/7/200/fox_/manual/35607121449963728hc49slf.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Mar-15"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Dropout Voltage"; Value = "2 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "30.02 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "10.24 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Input Voltage"; Value = "35 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "125 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Ouput Current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Input Voltage"; Value = "7 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "0 degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Nominal Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Current"; Value = "1 A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Voltage"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Outputs"; Value = "1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "50"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "2-Pin Through Hole Device, Body 11.35 x 4.65 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "FOXSLF080-20"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pins"; Value = "3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "No SVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "true"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "9.35 mm"; VariantName = "[No Variations]"
+Added Component: Designator=Y2(ABRA-ABS07_A_V)
+Add component (AddParameter): Name = "Case\/Package"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet URL"; Value = "http://www.abracon.com/Resonators/ABS07-120-32.768kHz-T.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Version"; Value = "11/2014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Depth"; Value = "1.5mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ESR (Equivalent Series Resistance)"; Value = "55KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency"; Value = "32.768KHz"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Frequency Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.035inch"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lead Free"; Value = "LeadFree"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Length"; Value = "3.2mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Load Capacitance"; Value = "6pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Abracon"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer URL"; Value = "http://www.abracon.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Operating Temperature"; Value = "85degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Operating Temperature"; Value = "-40degC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mount"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "SurfaceMount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Pins"; Value = "2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Description"; Value = "2-Pin Surface Mount Device, Body 3.2 x 1.5 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Quantity"; Value = "3000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package Reference"; Value = "ABS07"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "TapeandReel"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "REACH SVHC"; Value = "NoSVHC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHSCompliant"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Series Resistance"; Value = "60KOhm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Termination"; Value = "SMD/SMT"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20ppm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Width"; Value = "0.061inch"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=C9-2
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=C10-2
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=C11-2
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=C12-2
+Added Pin To Net: NetName=OSCIN Pin=C13-2
+Added Pin To Net: NetName=OSCOUT Pin=C14-2
+Added Pin To Net: NetName=RST Pin=C15-2
+Added Pin To Net: NetName=PC14 Pin=C16-2
+Added Pin To Net: NetName=PC15 Pin=C17-2
+Added Pin To Net: NetName=RST Pin=R12-1
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=R12-2
+Added Pin To Net: NetName=SCL Pin=R13-1
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=R13-2
+Added Pin To Net: NetName=SDA Pin=R14-1
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=R14-2
+Added Pin To Net: NetName=PA12 Pin=R15-1
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=R15-2
+Added Pin To Net: NetName=PA12 Pin=R16-1
+Added Pin To Net: NetName=D+ Pin=R16-2
+Added Pin To Net: NetName=PA11 Pin=R17-1
+Added Pin To Net: NetName=D- Pin=R17-2
+Added Pin To Net: NetName=RST Pin=SW1-2
+Added Pin To Net: NetName=RST Pin=SW1-4
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=U4-1
+Added Pin To Net: NetName=PC14 Pin=U4-3
+Added Pin To Net: NetName=PC15 Pin=U4-4
+Added Pin To Net: NetName=OSCIN Pin=U4-5
+Added Pin To Net: NetName=OSCOUT Pin=U4-6
+Added Pin To Net: NetName=RST Pin=U4-7
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=U4-9
+Added Pin To Net: NetName=SCL Pin=U4-21
+Added Pin To Net: NetName=SDA Pin=U4-22
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=U4-24
+Added Pin To Net: NetName=PA11 Pin=U4-32
+Added Pin To Net: NetName=PA12 Pin=U4-33
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=U4-36
+Added Pin To Net: NetName=MIC_OUT_TO_CONTROLLER Pin=U4-48
+Added Pin To Net: NetName=OSCIN Pin=Y1-1
+Added Pin To Net: NetName=OSCOUT Pin=Y1-2
+Added Pin To Net: NetName=PC14 Pin=Y2-1
+Added Pin To Net: NetName=PC15 Pin=Y2-2
+Added Pin To Net: NetName=BOOT0 Pin=U4-44
+Added Net: Name=BOOT0
+Added Net: Name=But_1
+Added Net: Name=But_2
+Added Net: Name=But_3
+Added Net: Name=But_4
+Added Net: Name=But_5
+Added Net: Name=But_6
+Added Net: Name=But_7
+Added Net: Name=But_8
+Added Net: Name=But_9
+Added Pin To Net: NetName=PA0 Pin=U4-10
+Added Net: Name=PA0
+Added Pin To Net: NetName=PA1 Pin=U4-11
+Added Net: Name=PA1
+Added Pin To Net: NetName=PA2 Pin=U4-12
+Added Net: Name=PA2
+Added Pin To Net: NetName=PA3 Pin=U4-13
+Added Net: Name=PA3
+Added Pin To Net: NetName=PA4 Pin=U4-14
+Added Net: Name=PA4
+Added Pin To Net: NetName=PA5 Pin=U4-15
+Added Net: Name=PA5
+Added Pin To Net: NetName=PA6 Pin=U4-16
+Added Net: Name=PA6
+Added Pin To Net: NetName=PA7 Pin=U4-17
+Added Net: Name=PA7
+Added Pin To Net: NetName=PA8 Pin=U4-29
+Added Net: Name=PA8
+Added Pin To Net: NetName=PA9_TX Pin=U4-30
+Added Net: Name=PA9_TX
+Added Pin To Net: NetName=PA13_SWDIO Pin=U4-34
+Added Net: Name=PA13_SWDIO
+Added Pin To Net: NetName=PA14_SWCLK Pin=U4-37
+Added Net: Name=PA14_SWCLK
+Added Pin To Net: NetName=PA15 Pin=U4-38
+Added Net: Name=PA15
+Added Pin To Net: NetName=PB0 Pin=U4-18
+Added Net: Name=PB0
+Added Pin To Net: NetName=PB1 Pin=U4-19
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=U4-20
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3_SWO Pin=U4-39
+Added Net: Name=PB3_SWO
+Added Pin To Net: NetName=PB4 Pin=U4-40
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=U4-41
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=U4-42
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=U4-43
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=U4-45
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=U4-46
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB12 Pin=U4-25
+Added Net: Name=PB12
+Added Pin To Net: NetName=PB13 Pin=U4-26
+Added Net: Name=PB13
+Added Pin To Net: NetName=PB14 Pin=U4-27
+Added Net: Name=PB14
+Added Pin To Net: NetName=PB15 Pin=U4-28
+Added Net: Name=PB15
+Added Pin To Net: NetName=PC13 Pin=U4-2
+Added Net: Name=PC13
+Added Pin To Net: NetName=RX_PA10 Pin=U4-31
+Added Net: Name=RX_PA10
+Added Class: Name=U_Cherry MX
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Keypadmacro
+Added Room: Name=U_Cherry MX

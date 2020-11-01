@@ -1,0 +1,8 @@
+Added Component: Designator=SW?(MX_Cherry_LED)
+Added Pin To Net: NetName=+3V3 Pin=R1-2
+Added Pin To Net: NetName=+3V3 Pin=U3-6
+Added Member To Class: ClassName=U_Cherry MX Member=Component SW? Cherry MX with an LED
+Added Room: Name=Designator
+Added Room: Name=Designator
+Added Room: Name=Keypadmacro
+Added Room: Name=U_Cherry MX
