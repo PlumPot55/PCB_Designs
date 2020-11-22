@@ -1,0 +1,75 @@
+Removed Pin From Net: NetName=TXM_DN1 Pin=C28-1
+Removed Pin From Net: NetName=TXP_DN1 Pin=C29-1
+Removed Pin From Net: NetName=TXM_DN2 Pin=C31-1
+Removed Pin From Net: NetName=TXP_DN2 Pin=C32-1
+Removed Pin From Net: NetName=TXM_DN3 Pin=C34-1
+Removed Pin From Net: NetName=TXP_DN3 Pin=C35-1
+Change Component Footprint: Designator=C27 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C28 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C29 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C30 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C31 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C32 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C33 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C34 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C35 Old Footprint=CAPC1608X87X35NL15T15 New Footprint=CAPC1005X55X30ML05T10
+Change Managed Component Library Link : Designator=C27 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C28 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C29 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C30 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C31 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C32 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C33 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C34 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C35 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=45AAB018-B39A-4BA4-98A9-D9E8C6136D32 New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=8A61B673-4607-4E85-B5DE-56E31FBFEACA New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change component parameters: Designator = "C27" ("C27"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\JJRNCCFX" ("\AAVDPZLO\JJRNCCFX")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C28" ("C28"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\FMLYSOQP" ("\AAVDPZLO\FMLYSOQP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C29" ("C29"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\PKIFLMMC" ("\AAVDPZLO\PKIFLMMC")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C30" ("C30"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\QPNWMXAT" ("\AAVDPZLO\QPNWMXAT")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C31" ("C31"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\AVJHDYCZ" ("\AAVDPZLO\AVJHDYCZ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C32" ("C32"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\NXXFULAL" ("\AAVDPZLO\NXXFULAL")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C33" ("C33"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\JJYCETZN" ("\AAVDPZLO\JJYCETZN")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C34" ("C34"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\UVLCZYRB" ("\AAVDPZLO\UVLCZYRB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C35" ("C35"); Footprint = "CAPC1608X87X35NL15T15"; UniqueID = "\AAVDPZLO\OCUDQEES" ("\AAVDPZLO\OCUDQEES")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=TXM_DN1 Pin=C28-2
+Added Pin To Net: NetName=TXP_DN1 Pin=C29-2
+Added Pin To Net: NetName=TXM_DN2 Pin=C31-2
+Added Pin To Net: NetName=TXP_DN2 Pin=C32-2
+Added Pin To Net: NetName=TXM_DN3 Pin=C34-2
+Added Pin To Net: NetName=TXP_DN3 Pin=C35-2
+Added Pin To Net: NetName=NetC28_1 Pin=C28-1
+Added Pin To Net: NetName=NetC28_1 Pin=J1-8
+Added Net: Name=NetC28_1
+Added Pin To Net: NetName=NetC29_1 Pin=C29-1
+Added Pin To Net: NetName=NetC29_1 Pin=J1-9
+Added Net: Name=NetC29_1
+Added Pin To Net: NetName=NetC31_1 Pin=C31-1
+Added Pin To Net: NetName=NetC31_1 Pin=J2-8
+Added Net: Name=NetC31_1
+Added Pin To Net: NetName=NetC32_1 Pin=C32-1
+Added Pin To Net: NetName=NetC32_1 Pin=J2-9
+Added Net: Name=NetC32_1
+Added Pin To Net: NetName=NetC34_1 Pin=C34-1
+Added Pin To Net: NetName=NetC34_1 Pin=J3-8
+Added Net: Name=NetC34_1
+Added Pin To Net: NetName=NetC35_1 Pin=C35-1
+Added Pin To Net: NetName=NetC35_1 Pin=J3-9
+Added Net: Name=NetC35_1

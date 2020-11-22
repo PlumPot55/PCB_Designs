@@ -1,0 +1,30 @@
+Change Component Footprint: Designator=C6 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C7 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C8 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C9 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Footprint: Designator=C12 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X55X30ML05T10
+Change Component Comment : Designator=C6 Old Comment=10uF New Comment=10uF 0402
+Change Component Comment : Designator=C7 Old Comment=10uF New Comment=10uF 0402
+Change Component Comment : Designator=C8 Old Comment=10uF New Comment=10uF 0402
+Change Component Comment : Designator=C9 Old Comment=10uF New Comment=10uF 0402
+Change Component Comment : Designator=C12 Old Comment=10uF New Comment=10uF 0402
+Change Managed Component Library Link : Designator=C6 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C7 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C8 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C9 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change Managed Component Library Link : Designator=C12 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=39655508-8D9D-45AA-8D58-220CF199AF58 Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=83B953C5-C4F2-48D1-85D9-6C6AA993B52A
+Change component parameters: Designator = "C6" ("C6"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\FUMAGSRD" ("\LDYNVHXK\FUMAGSRD")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C7" ("C7"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\ZRDFENME" ("\LDYNVHXK\ZRDFENME")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\IYVMWSFF" ("\LDYNVHXK\IYVMWSFF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C9" ("C9"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\ZUXIRSHS" ("\LDYNVHXK\ZUXIRSHS")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C12" ("C12"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\TTBBCJLY" ("\LDYNVHXK\TTBBCJLY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Kemet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "C0402C104J4RACTU"; VariantName = "[No Variations]"

@@ -1,0 +1,21 @@
+Change component parameters: Designator = "C1" ("C1"); Footprint = "C_1206_3216Metric_Pad1.42x1.75mm_HandSolder"; UniqueID = "\HCYWHDRB" ("\HCYWHDRB")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C2" ("C2"); Footprint = "C_1206_3216Metric_Pad1.42x1.75mm_HandSolder"; UniqueID = "\ZGVVRYLP" ("\ZGVVRYLP")
+Change component parameters (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Change component parameters: Designator = "D1" ("D1"); Footprint = "LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"; UniqueID = "\CTKSEWGR" ("\CTKSEWGR")
+Change component parameters (AddParameter): Name = "Value"; Value = "LED"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J1" ("J1"); Footprint = "USB_Micro-B_Molex-105017-0001"; UniqueID = "\AGKGCAWR" ("\AGKGCAWR")
+Change component parameters (AddParameter): Name = "Value"; Value = "USB_B_Micro"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2" ("J2"); Footprint = "JST_GH_SM02B-GHS-TB_1x02-1MP_P1.25mm_Horizontal"; UniqueID = "\JIEVAVUM" ("\JIEVAVUM")
+Change component parameters (AddParameter): Name = "Value"; Value = "Conn_01x02"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R1" ("R1"); Footprint = "R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"; UniqueID = "\EONLQPJR" ("\EONLQPJR")
+Change component parameters (AddParameter): Name = "Value"; Value = "470R"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R2" ("R2"); Footprint = "R_1206_3216Metric_Pad1.42x1.75mm_HandSolder"; UniqueID = "\SHDIOARM" ("\SHDIOARM")
+Change component parameters (AddParameter): Name = "Value"; Value = "2k"; VariantName = "[No Variations]"
+Change component parameters: Designator = "U1" ("U1"); Footprint = "SOT-23-5"; UniqueID = "\HSYTKEJM" ("\HSYTKEJM")
+Change component parameters (AddParameter): Name = "Value"; Value = "MCP73831-2-OT"; VariantName = "[No Variations]"
+Change Net Name : Old Net Name=Net-(D1-Pad1) New Net Name=NetD1_1
+Change Net Name : Old Net Name=Net-(R2-Pad1) New Net Name=NetR2_1
+Added Class: Name=Battery Charger
+Added Room: Name=Battery Charger
+Added Rule: Name=Schematic Width Constraint

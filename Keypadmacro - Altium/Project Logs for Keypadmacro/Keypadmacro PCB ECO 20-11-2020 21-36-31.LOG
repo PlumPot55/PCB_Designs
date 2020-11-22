@@ -1,0 +1,13 @@
+Removed Pin From Net: NetName=BATEN3 Pin=U1-1
+Removed Pin From Net: NetName=BATEN2 Pin=U1-3
+Removed Pin From Net: NetName=BATEN1 Pin=U1-4
+Removed Pin From Net: NetName=SDA_SMBDAT_U1U2_DIS Pin=U1-5
+Removed Pin From Net: NetName=SCL_SMBCLK_SSC_DIS Pin=U1-6
+Removed Pin From Net: NetName=SMBUSZ Pin=U1-7
+Added Pin To Net: NetName=NetC3_1 Pin=U1-1
+Added Pin To Net: NetName=NetR2_2 Pin=U1-3
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Pin To Net: NetName=NetC2_1 Pin=U1-5
+Added Pin To Net: NetName=3V3 Pin=U1-6
+Added Pin To Net: NetName=NetC5_1 Pin=U1-7
+Added Room: Name=Designator

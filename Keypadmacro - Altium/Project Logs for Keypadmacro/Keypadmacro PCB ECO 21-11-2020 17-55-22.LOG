@@ -1,0 +1,35 @@
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=3V3 Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-1
+Added Pin To Net: NetName=3V3 Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=3V3 Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=3V3 Pin=C9-2
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=3V3 Pin=R4-2
+Added Pin To Net: NetName=3V3 Pin=R5-2
+Added Pin To Net: NetName=3V3 Pin=R6-2
+Added Pin To Net: NetName=3V3 Pin=R7-2
+Added Pin To Net: NetName=GND Pin=SW10-1
+Added Pin To Net: NetName=GND Pin=SW10-3
+Added Pin To Net: NetName=3V3 Pin=U2-1
+Added Pin To Net: NetName=GND Pin=U2-8
+Added Pin To Net: NetName=3V3 Pin=U2-9
+Added Pin To Net: NetName=GND Pin=U2-23
+Added Pin To Net: NetName=3V3 Pin=U2-24
+Added Pin To Net: NetName=GND Pin=U2-35
+Added Pin To Net: NetName=3V3 Pin=U2-36
+Added Pin To Net: NetName=GND Pin=U2-47
+Added Pin To Net: NetName=3V3 Pin=U2-48
+Change Class Name : Old Net Name=Designator New Net Name=Sound
+Added Class: Name=3V3
+Added Class: Name=Designator
+Added Class: Name=LED
+Added Class: Name=STM
+Added Class: Name=USB_HUB
+Added Class: Name=USB_IC

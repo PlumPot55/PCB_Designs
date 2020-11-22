@@ -1,0 +1,6 @@
+Removed Member From Class: ClassName=Keypadmacro Member=J1
+Removed Member From Class: ClassName=Keypadmacro Member=J2
+Added Pin To Net: NetName=OVERCUR1z Pin=R12-1
+Added Pin To Net: NetName=OVERCUR1z Pin=U4-5
+Added Pin To Net: NetName=PWRON3_BATEN3 Pin=U6-4
+Added Room: Name=Designator

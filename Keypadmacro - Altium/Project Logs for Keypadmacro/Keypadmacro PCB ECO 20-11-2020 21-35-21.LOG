@@ -1,0 +1,94 @@
+Removed Pin From Net: NetName=SDA_SMBDAT_U1U2_DIS Pin=U1-5
+Removed Pin From Net: NetName=SCL_SMBCLK_SSC_DIS Pin=U1-6
+Removed Pin From Net: NetName=SMBUSZ Pin=U1-7
+Removed Pin From Net: NetName=FULLPWRMGMTZ_SS_UP Pin=U1-8
+Added Pin To Net: NetName=1V1 Pin=C43-1
+Added Pin To Net: NetName=GND Pin=C45-1
+Added Pin To Net: NetName=USB_SSTXP_UP Pin=J4-A2
+Added Pin To Net: NetName=USB_DP_UP Pin=J4-A6
+Added Pin To Net: NetName=USB_SSRXP_UP Pin=J4-A11
+Added Pin To Net: NetName=USB_SSRXP_UP Pin=J4-B2
+Added Pin To Net: NetName=USB_DP_UP Pin=J4-B6
+Added Pin To Net: NetName=USB_SSTXP_UP Pin=J4-B11
+Added Pin To Net: NetName=+3.3V Pin=R12-2
+Added Pin To Net: NetName=+3.3V Pin=R14-2
+Added Pin To Net: NetName=+3.3V Pin=R16-2
+Added Pin To Net: NetName=1V1 Pin=R19-1
+Added Pin To Net: NetName=+BATT Pin=R20-2
+Added Pin To Net: NetName=GND Pin=R21-1
+Added Pin To Net: NetName=GND Pin=R22-1
+Added Pin To Net: NetName=+3.3V Pin=U1-2
+Added Pin To Net: NetName=GND Pin=U1-2
+Added Pin To Net: NetName=NetC2_1 Pin=U1-5
+Added Pin To Net: NetName=SDA_SMBDAT_U1U2_DIS Pin=U1-5
+Added Pin To Net: NetName=+3.3V Pin=U1-6
+Added Pin To Net: NetName=SCL_SMBCLK_SSC_DIS Pin=U1-6
+Added Pin To Net: NetName=NetC5_1 Pin=U1-7
+Added Pin To Net: NetName=SMBUSZ Pin=U1-7
+Added Pin To Net: NetName=FULLPWRMGMTZ_SS_UP Pin=U1-8
+Added Pin To Net: NetName=NetC3_2 Pin=U1-8
+Added Pin To Net: NetName=+BATT Pin=U4-2
+Added Pin To Net: NetName=+BATT Pin=U4-3
+Added Pin To Net: NetName=+BATT Pin=U5-2
+Added Pin To Net: NetName=+BATT Pin=U5-3
+Added Pin To Net: NetName=+BATT Pin=U6-2
+Added Pin To Net: NetName=+BATT Pin=U6-3
+Added Pin To Net: NetName=1V1 Pin=U7-1
+Added Pin To Net: NetName=1V1 Pin=U7-18
+Added Pin To Net: NetName=1V1 Pin=U7-19
+Added Pin To Net: NetName=1V1 Pin=U7-20
+Change Net Name : Old Net Name=+3.3V New Net Name=3V3
+Added Pin To Net: NetName=BATEN1 Pin=U1-4
+Added Pin To Net: NetName=BATEN1 Pin=U4-4
+Added Net: Name=BATEN1
+Added Pin To Net: NetName=BATEN2 Pin=U1-3
+Added Pin To Net: NetName=BATEN2 Pin=U5-4
+Added Net: Name=BATEN2
+Added Pin To Net: NetName=BATEN3 Pin=U1-1
+Added Pin To Net: NetName=BATEN3 Pin=U6-4
+Added Net: Name=BATEN3
+Added Pin To Net: NetName=DM_DN1 Pin=J1-2
+Added Net: Name=DM_DN1
+Added Pin To Net: NetName=DM_DN2 Pin=J2-2
+Added Net: Name=DM_DN2
+Added Pin To Net: NetName=DM_DN3 Pin=J3-2
+Added Net: Name=DM_DN3
+Added Pin To Net: NetName=DP_DN1 Pin=J1-3
+Added Net: Name=DP_DN1
+Added Pin To Net: NetName=DP_DN2 Pin=J2-3
+Added Net: Name=DP_DN2
+Added Pin To Net: NetName=DP_DN3 Pin=J3-3
+Added Net: Name=DP_DN3
+Added Pin To Net: NetName=OVCUR1 Pin=R12-1
+Added Pin To Net: NetName=OVCUR1 Pin=U4-5
+Added Net: Name=OVCUR1
+Added Pin To Net: NetName=OVCUR2 Pin=R14-1
+Added Pin To Net: NetName=OVCUR2 Pin=U5-5
+Added Net: Name=OVCUR2
+Added Pin To Net: NetName=OVCUR3 Pin=R16-1
+Added Pin To Net: NetName=OVCUR3 Pin=U6-5
+Added Net: Name=OVCUR3
+Added Pin To Net: NetName=RXM_DN1 Pin=J1-5
+Added Net: Name=RXM_DN1
+Added Pin To Net: NetName=RXM_DN2 Pin=J2-5
+Added Net: Name=RXM_DN2
+Added Pin To Net: NetName=RXM_DN3 Pin=J3-5
+Added Net: Name=RXM_DN3
+Added Pin To Net: NetName=RXP_DN1 Pin=J1-6
+Added Net: Name=RXP_DN1
+Added Pin To Net: NetName=RXP_DN2 Pin=J2-6
+Added Net: Name=RXP_DN2
+Added Pin To Net: NetName=RXP_DN3 Pin=J3-6
+Added Net: Name=RXP_DN3
+Added Pin To Net: NetName=TXM_DN1 Pin=C28-1
+Added Net: Name=TXM_DN1
+Added Pin To Net: NetName=TXM_DN2 Pin=C31-1
+Added Net: Name=TXM_DN2
+Added Pin To Net: NetName=TXM_DN3 Pin=C34-1
+Added Net: Name=TXM_DN3
+Added Pin To Net: NetName=TXP_DN1 Pin=C29-1
+Added Net: Name=TXP_DN1
+Added Pin To Net: NetName=TXP_DN2 Pin=C32-1
+Added Net: Name=TXP_DN2
+Added Pin To Net: NetName=TXP_DN3 Pin=C35-1
+Added Net: Name=TXP_DN3

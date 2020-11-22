@@ -1,0 +1,26 @@
+Change Component Footprint: Designator=C10 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Change Component Footprint: Designator=C11 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Change Component Footprint: Designator=C13 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Change Component Footprint: Designator=C14 Old Footprint=CAPC1608X90X35NL10T15 New Footprint=CAPC1005X56X25NL10T15
+Change Component Footprint: Designator=R4 Old Footprint=RESC1608X90X30LL15T20 New Footprint=RESC1005X40X25NL05T05
+Change Component Comment : Designator=R4 Old Comment=ERT-J1VR103J New Comment=10K
+Change Managed Component Library Link : Designator=C10 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=D03DC736-59A6-43E3-B54F-DF4F736F1D4D Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=59D5FCDE-E4FB-4073-9064-0A3D086C380D
+Change Managed Component Library Link : Designator=C11 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=D03DC736-59A6-43E3-B54F-DF4F736F1D4D Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=59D5FCDE-E4FB-4073-9064-0A3D086C380D
+Change Managed Component Library Link : Designator=C13 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=D03DC736-59A6-43E3-B54F-DF4F736F1D4D Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=59D5FCDE-E4FB-4073-9064-0A3D086C380D
+Change Managed Component Library Link : Designator=C14 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=3F1FDB09-9931-43B7-B80F-88673FF926CD New ItemGUID=D03DC736-59A6-43E3-B54F-DF4F736F1D4D Old RevisionGUID=6F12D138-E6F1-4928-9700-5A7265FB8E74 New RevisionGUID=59D5FCDE-E4FB-4073-9064-0A3D086C380D
+Change Managed Component Library Link : Designator=R4 Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=7CA78D23-20EF-42F3-8425-7EFBD51DA28B New ItemGUID=FF183692-562F-48E5-8B83-37A4A049ED6D Old RevisionGUID=4EFFAA41-48B5-4B8F-8936-D410A75CDE2A New RevisionGUID=CB21413C-6A63-4ACA-A5B3-54D7C2A476BA
+Change component parameters: Designator = "C10" ("C10"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\SYBSDHEQ" ("\LDYNVHXK\SYBSDHEQ")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "04025A200JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C11" ("C11"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\MCDKWEGU" ("\LDYNVHXK\MCDKWEGU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "04025A200JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C13" ("C13"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\VGNJEEPF" ("\LDYNVHXK\VGNJEEPF")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "04025A200JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C14" ("C14"); Footprint = "CAPC1608X90X35NL10T15"; UniqueID = "\LDYNVHXK\PYUEVGCA" ("\LDYNVHXK\PYUEVGCA")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "AVX Interconnect / Elco"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "04025A200JAT2A"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R4" ("R4"); Footprint = "RESC1608X90X30LL15T20"; UniqueID = "\LDYNVHXK\LHKXNYEU" ("\LDYNVHXK\LHKXNYEU")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "Vishay Dale"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Part Number"; Value = "CRCW0402330RFKED"; VariantName = "[No Variations]"
